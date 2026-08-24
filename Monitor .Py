@@ -1,2 +1,0 @@
-requirements.txt
-requests==2.31.0
